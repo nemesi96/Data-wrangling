@@ -1,0 +1,8 @@
+report- process and report of the project
+
+project_DATA_Cleaning.ipynb - The codes for data importing ,auditing, and exporting (project_DATA_Cleaning.py file too)
+
+sample.osm - a sample osm file
+
+schema.py - default schema for tables in database
+
