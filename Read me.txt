@@ -1,6 +1,8 @@
 report- process and report of the project
 
-project_DATA_Cleaning.ipynb - The codes for data importing ,auditing, and exporting (project_DATA_Cleaning.py file too)
+Pune_DATA_Cleaning.ipynb - The codes for data importing ,auditing, and exporting (project_DATA_Cleaning.py file too)
+
+Queries_Sql.ipynb -queries 
 
 sample.osm - a sample osm file
 
